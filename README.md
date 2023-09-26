@@ -10,3 +10,6 @@ CRUD operations using MERN Stack
 - Redux-Toolkit
 - Mongoose
 - CORS
+## SETUP & TESTING
+Clone/download this repository and run yarn install or npm install.<br>
+After all the dependencies are downloaded, run yarn start or npm start to run the app.
